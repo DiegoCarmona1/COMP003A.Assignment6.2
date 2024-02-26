@@ -10,7 +10,7 @@ using System.Threading.Tasks;
  * Purpose: To gain an example of using the 4 pillars of OOP (Object-Oriented Programming). As well as experience and familiarity in using multiple classes and files within Studio Code.
  */
 
-namespace COMP003A.Assignment6
+namespace COMP003A.Assignment6._2
 {
     internal class Program
     {

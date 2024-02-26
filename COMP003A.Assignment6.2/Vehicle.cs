@@ -10,7 +10,7 @@ namespace COMP003A.Assignment6._2
     /// Abstracts describe a contract but does not provide a full implementaiton of the contract.
     /// Read https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/abstractions-abstract-types-and-interfaces
     /// </summary>
-    abstract class Vehicle
+    abstract class Vehicle : IVehicle
     {
         /***** fields section *****/
         // note: in almost all programming languages, you would typically pair a field with a property

@@ -9,7 +9,7 @@ namespace COMP003A.Assignment6._2
     /// <summary>
     /// Truck extends the Vehicle class
     /// </summary>
-    internal class Truck
+    internal class Truck : Vehicle
     {
         /***** fields section *****/
         private double _sizeOfTruckBed;

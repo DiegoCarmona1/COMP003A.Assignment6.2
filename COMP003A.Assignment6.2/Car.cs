@@ -9,7 +9,7 @@ namespace COMP003A.Assignment6._2
     /// <summary>
     /// Car extends the Vehicle class
     /// </summary>
-    internal class Car
+    internal class Car : Vehicle
     {
         /***** constructors section *****/
         // By default, a class has a default constructor that does not take any parameters
